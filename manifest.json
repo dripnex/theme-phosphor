@@ -1,7 +1,7 @@
 {
   "id": "theme-phosphor",
   "name": "Phosphor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Amber CRT. Terminal glow after midnight.",
   "main": "dist/index.js"
 }

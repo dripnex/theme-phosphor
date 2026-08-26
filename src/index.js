@@ -35,7 +35,7 @@ const TOKENS = {
 module.exports = {
   id: 'theme-phosphor',
   name: 'Phosphor',
-  version: '0.1.0',
+  version: '0.1.1',
   description: 'Amber CRT. Terminal glow after midnight.',
 
   activate(context) {
